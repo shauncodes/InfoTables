@@ -72,12 +72,9 @@ $result = $conn->query($sql);
 			<li><a href="18joblist.php">2018 Joblist</a></li>
 			<li><a href="19joblist.php">2019 Joblist</a></li>
 			<li><a href="equiplist.php">Equipment</a></li>
-			<!-- Lets put these on hold for now
-				<li><a href="pnplist.php">Pits and Plants</a></li>
-				<li><a href="docs.php">Company Docs</a></li>
-			-->
-			<li><a href="../../FR/current/index.php">Foreman Reports</a></li>
-			<li><a href="../../TS/current/index.php">Time Sheets</a></li>
+			<li><a href="../../FR/current/index.php">Foreman Report</a></li>
+            <li><a href="../../FR/current/reports.php">Get Reports</a></li>
+			<li><a href="../../TS/current/admin.php">Admin Panel</a></li>
 		</ul>
 	</div>
 </nav>
