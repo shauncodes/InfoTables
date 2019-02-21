@@ -75,8 +75,8 @@ $seresult = $conn->query($sesql);
 			<li><a href="19joblist.php">2019 Joblist</a></li>
 			<li class="active"><a href="equiplist.php">Equipment</a></li>
 			<li><a href="../../FR/current/index.php">Foreman Report</a></li>
-            <li><a href="../../FR/current/reports.php">Get Reports</a></li>
-			<li><a href="../../TS/current/admin.php">Admin Panel</a></li>
+            <li><a href="../../FR/current/OfficeOnly/reports.php">Get Reports</a></li>
+			<li><a href="../../FR/current/OfficeOnly/admin.php">Admin Panel</a></li>
 		</ul>
 	</div>
 </nav>
