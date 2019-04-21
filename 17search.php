@@ -73,7 +73,7 @@ $result = $conn->query($sql);
 			<li><a href="19joblist.php">2019 Joblist</a></li>
 			<li><a href="equiplist.php">Equipment</a></li>
 			<li><a href="../../FR/current/index.php">Foreman Report</a></li>
-            <li><a href="../../FR/current/OfficeOnly/reports.php">Get Reports</a></li>
+            <li><a href="../../FR/current/reports.php">Get Reports</a></li>
 			<li><a href="../../FR/current/OfficeOnly/admin.php">Admin Panel</a></li>
 		</ul>
 	</div>
